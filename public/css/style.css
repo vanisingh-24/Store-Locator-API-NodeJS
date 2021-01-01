@@ -6,6 +6,7 @@ img {
     height: auto;
     position: absolute;
 }
+
 #map {
     position: relative;
     z-index: 200;
@@ -21,6 +22,10 @@ h1{
 a{
     position: relative;
     z-index: 200;
+}
+
+label{
+    font-size: 18px;
 }
 
 /* MEDIA QUERIES */
